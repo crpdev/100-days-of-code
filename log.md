@@ -7,7 +7,7 @@
 
 **Thoughts:** Learning to code UI had been a long due in my activity list and I am glad that I made a commitment to learn Angular. I am very excited and looking forward to commit to the #100DaysOfCode challenge. 
 
-**Link to work:** [SimpleAngularApp](http://www.example.com)
+**Link to work:** [SimpleAngularApp](https://github.com/crpdev/100DaysOfAngular/tree/master/SimpleAngularApp)
 
 ### Day 1: March 23, 2020
 
@@ -15,4 +15,4 @@
 
 **Thoughts**: 
 
-**Link(s) to work**: [SimpleAngularApp](http://www.example.com)
+**Link(s) to work**: [SimpleAngularApp](https://github.com/crpdev/100DaysOfAngular/tree/master/SimpleAngularApp)
