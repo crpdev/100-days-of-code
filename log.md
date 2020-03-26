@@ -16,3 +16,11 @@
 **Thoughts**: 
 
 **Link(s) to work**: [SimpleAngularApp](https://github.com/crpdev/100DaysOfAngular/tree/master/SimpleAngularApp)
+
+### Day 2: March 24, 2020
+
+**Today's Progress**: Extending the SimpleAngularApp project: Component Interaction using template reference[@ViewChild], property binding [@Input/ @Output], Events [EventEmitter] and some code refactoring & best practices.
+
+**Thoughts**: 
+
+**Link(s) to work**: [SimpleAngularApp](https://github.com/crpdev/100DaysOfAngular/tree/master/SimpleAngularApp)
